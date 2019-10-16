@@ -13,7 +13,7 @@ In this project you will learn how to use computational techniques to analyze te
 
 ## How to proceed
 
-In order to get started on the assignment, you should fork the base repository for the text mining and analysis mini-project. Once you've forked the repository, clone the repository on your computer.
+In order to get started on the assignment, you should fork this base repository. Once you've forked the repository, clone the repository on your computer.
 
 You should read this document in a somewhat non-linear/spiral fashion:
 
@@ -301,5 +301,5 @@ Also discuss your team process in your reflection. How did you plan to divide th
 2. Submit your Project Writeup/Reflection (1 per team, not 1 per person). This can be in the form of either:
     + a PDF document pushed to GitHub, or
     + a project web page (if you choose this route, make sure there is a link to your web page in your `README.md` file in your Github repo.)
-3. Create a pull request to the upstream repository.
-4. Zip the entire project folder to a .zip file and submit it on Blackboard/Assignments/Assignment 2. Leave the url to your project github repository in the comment area on Blackboard.
+3. Create a pull request to the upstream repository. Learn [Creating a pull request](https://help.github.com/en/articles/creating-a-pull-request).
+4. **This step is required for everyone.** Zip the entire project folder to a .zip file and submit it on Blackboard/Assignments/Assignment 2. Leave the url to your project github repository in the comment area on Blackboard.
