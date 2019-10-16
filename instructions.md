@@ -208,7 +208,7 @@ One way to begin to process your text is to take each unit of text (for instance
 Beyond simply calculating word frequencies there are some other ways to summarize the words in a text. For instance, what are the top 10 words in each text? What are the words that appear the most in each text that don't appear in other texts? 
 
 ### Doing Natural Language Processing
-NLTK - the Natural Language Toolkit (<http://www.nltk.org/index.html>) is a leading platform for building Python programs to work with human language data. It provides some really cool natural language processing capabilities. Some examples include: part of speech tagging, sentiment analysis, and full sentence parsing. 
+NLTK - the Natural Language Toolkit (<https://www.nltk.org/>) is a leading platform for building Python programs to work with human language data. It provides some really cool natural language processing capabilities. Some examples include: part of speech tagging, sentiment analysis, and full sentence parsing. 
 
 To use NLTK, you need to install nltk by running the following command in **Command Prompt**:
 
@@ -297,9 +297,9 @@ Also discuss your team process in your reflection. How did you plan to divide th
 
 ## Turning in your assignment
 
-1. Push your completed code to the "master" Git repository (depending on which team member's repository is being used to work on the project).
+1. Push your completed code to Github repository (depending on which team member's repository is being used to work on the project).
 2. Submit your Project Writeup/Reflection (1 per team, not 1 per person). This can be in the form of either:
     + a PDF document pushed to GitHub, or
-    + a project webpage (if you choose this route, make sure there is a link to your webpage in your `README.md` file in your Github repo.)
+    + a project web page (if you choose this route, make sure there is a link to your web page in your `README.md` file in your Github repo.)
 3. Create a pull request to the upstream repository.
-4. Zip the entire project folder to a .zip file and submit it on Blackboard/Assignments/Assignment-2. Leave the url to your project github repository in the comment area on Blackboard.
+4. Zip the entire project folder to a .zip file and submit it on Blackboard/Assignments/Assignment 2. Leave the url to your project github repository in the comment area on Blackboard.
